@@ -36,3 +36,6 @@ generate-example.py
 *.pdf
 .cursor/worktrees.json
 uploads/
+.ipynb_checkpoints/project-showcase-checkpoint.html
+project-showcase.html
+.claude/settings.local.json
